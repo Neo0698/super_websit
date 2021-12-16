@@ -1,0 +1,261 @@
+ document.getElementById("newsblock").style.display="block";
+                        .divText{
+  font-family:Verdana;
+  font-size:56px;
+  font-weight:bold;
+  margin:auto;
+  display:table-cell;
+}
+
+html,body,#back {
+        height:100%;
+        margin:0;
+        padding:0;
+    }
+        #back { 
+        
+        position:relative;
+        background: url();
+        margin:0px auto;
+        width:1264px;
+}
+#back2 a {
+	border-bottom: 5px solid darkgrey
+}
+#timetext{
+	backround-color:grey;
+}
+#back2 img{
+	border-radius:25px;
+	min-width:100px;
+	min-height:100px;
+
+}
+#tabmenu{
+	background-color:lightgrey;
+	border-radius:25px;
+
+}
+html,body,#back2 {
+        height:105%;
+        margin:0;
+        padding:0;
+    }
+    #musiclyric{
+        background: linear-gradient(to bottom right, blue, white);
+        width:1000px;
+        height:600px;
+        overflow:scroll;
+        
+    }
+    #back2 { 
+        height:100%;
+        position:relative;
+        background: url();
+          
+          background-size: cover;
+       
+}
+    
+.container { margin: 150px auto; max-width: 640px; }
+        .g-scrolling-carousel .items{
+            padding: 5px 0;
+            background-color: #fff;
+        }
+        .g-scrolling-carousel .items a {
+            display: inline-block; /* notice the comments between inline-block items */
+            margin-right: 10px;
+            width: 300px;
+            height: 250px;
+            line-height: 250px;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+            text-align: center;
+            text-decoration: none;
+        }
+    
+    #videobox{
+                border-radius: 25px;
+                margin-left:10px;
+                
+                margin-up:30px;
+                margin-right:30px;
+                float: left;
+                float: down;
+                background-color:lightgrey;
+        
+            } 
+    #country{
+     width:150px;   
+    }
+    #allbox{
+        margin-left: 20%;
+        margin-right: 20%;
+        
+    }
+    #box{
+        width:200px;
+        
+        
+        
+        }
+    #wiki{
+        margin-left: 20%;
+        border-radius: 5px;
+        border: 2px solid #D473D4;
+         padding: 10px;
+        width:40%
+    }
+    #blackbox{
+        
+        
+        margin-up: 20%;
+         padding: 10px;
+        width:40%;
+        
+    }
+    #blackbox2{
+        margin-up: 640px;
+        margin-down: 640px;
+
+            
+        
+    }
+    #mailbox{
+        
+        border-radius: 25px;
+      border: 2px solid #D473D4;
+      outline: none !important;
+    }
+    #btt{
+       background-color: transparent;
+        
+        height:60px;
+        border-radius: 25px;
+        border: 2px solid transparent;
+    }
+    #bttforum{
+        background-color: transparent;
+        
+        height:60px;
+        border-radius: 25px;
+        border: 2px solid transparent;
+        
+    }
+    #bttmusic{
+        background-color: transparent;
+        
+        height:40px;
+        border-radius: 25px;
+        border: 2px solid transparent;
+        
+    }
+    #bttvideo{
+        background-color: transparent;
+    width:10%;
+    height:40px;
+      border-radius: 25px;
+      border: 2px solid transparent;
+      outline: none !important;
+    }
+    #btt2{
+        
+        width:10%;
+        height:40px;
+        border-radius: 25px;
+      border: 2px solid transparent;
+      outline: none !important;
+      
+
+      background-color:transparent;
+    }
+   
+    
+   
+    #searchtab{
+        background-color: #F8F8FF;
+        min-width: 100%;
+        position: relative;
+        
+        
+        
+    }
+    #seatch{
+        width:10%;
+        height:60px;
+        border-radius: 25px;
+      border: 2px solid #73AD21;
+      outline: none !important;
+    }
+
+    #searchTxt {
+      border-radius: 25px;
+      border: 2px solid #73AD21;
+      
+      width: 800px;
+      height: 75px;
+      background-color: white;
+      outline: none !important;
+    }
+    #img {
+      margin-top: 10%;
+      
+      border-radius: 50px;
+      padding: 10px;
+      width: 300;
+      height: 120;
+      outline: none !important;
+    }
+    #down{
+        border-radius: 25px;
+        border: 2px solid #D473D4;
+        float:right;
+    }
+    
+    #rightbox{ 
+                float:right; 
+                background:whight; 
+                
+    } 
+    #leftbox{ 
+                float:left; 
+                background:black; 
+                
+    } 
+    
+    #myProgress {
+     
+      
+      
+      
+      background-color: white;
+    }
+
+    #myBar {
+      border-radius: 50px;
+     
+      height: 10px;
+      background-color: white;
+    }
+    #sockettext{
+        margin-left:10%;
+        
+    }
+    #sockettext2, img{
+       
+    }
+     #menu{
+        background-color:black;
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+    #sockettext[role="presentation"]{
+        display:block;
+        
+    }
+    #datamail{
+        overflow:scroll
+        
+    }
+    
+    
